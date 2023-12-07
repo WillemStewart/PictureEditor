@@ -1,3 +1,8 @@
+""" 
+    Uses a module "images" by Kenneth Lambert that helps 
+    process image files
+"""
+
 import images
 
 def blackAndWhite(Image):
